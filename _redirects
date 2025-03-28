@@ -1,7 +1,7 @@
 # Redirect /register to /main.html
 /register.html  /main.html  301!
 
-# Redirect /contact to /main.html
+# Redirect /take-attendance to /main.html
 /take-attendance.html  /main.html  301!
 
 # Redirect any other page (optional, if you want to redirect all unknown routes)
